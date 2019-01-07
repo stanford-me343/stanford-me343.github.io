@@ -1,0 +1,17 @@
+# Site settings
+title: ME 343 Machine Learning for Mechanical Engineering Winter 18-19
+email: darve@stanford.edu
+description: "Course materials and notes for Stanford class ME 343, Machine Learning for Mechanical Engineering"
+baseurl: ""
+url: "http://stanford-me343.github.io"
+github_username: stanford-me343
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
