@@ -1,6 +1,6 @@
 ## stanford-me343.github.io
 
-Course material and notes for [ME 343](stanford-me343.github.io), Machine Learning for Mechanical Engineering, Stanford University, Winter 2018-2019                                                 
+Course material and notes for [ME 343](https://stanford-me343.github.io), Machine Learning for Mechanical Engineering, Stanford University, Winter 2018-2019                                                 
 
 ### How to edit GitHub Pages
 
