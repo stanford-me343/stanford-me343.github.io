@@ -21,7 +21,12 @@ The material for this class is hosted on github. It can be downloaded from the m
 
  ### Useful links
 
-[Code](code.md)
+Links to materials for this class:
+
+- [Code](code.md)
+- [Reading material](reading.md)
+- Homework assignments (to be posted later)
+- Final project instructions (to be posted later)
 
 ### Teaching staff
 
