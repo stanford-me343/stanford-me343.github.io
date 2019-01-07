@@ -26,6 +26,7 @@ The material for this class is hosted on github. It can be downloaded from the m
 - [Reading material](reading.md)
 - Homework assignments (to be posted later)
 - Final project instructions (to be posted later)
+- Interactive poll and survey link: [https://pollev.com/ericdarve886](https://pollev.com/ericdarve886)
 
 
 ### Teaching staff
