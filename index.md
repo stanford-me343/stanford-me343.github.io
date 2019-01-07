@@ -19,6 +19,10 @@ The material for this class is hosted on github. It can be downloaded from the m
  
  If you click on the green button "Clone or download" you can download all the files as a zip archive.
 
+ ### Useful links
+
+[Code](code.md)
+
 ### Teaching staff
 
 - Main instructor: Eric Darve, [darve@stanford.edu](mailto:darve@stanford.edu),
