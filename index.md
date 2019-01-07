@@ -57,7 +57,8 @@ Find our class page at: [https://piazza.com/stanford/winter2019/me343/home](http
 Because emails from instructors tend to get filtered out, we will also use a mailing list to email everyone. This mailing list can help you differentiate messages from the forum from important messages from the teaching staff. The mailing list will be:
 [me343-winter1819@lists.stanford.edu](mailto:me343-winter1819@lists.stanford.edu).
 
-Most of you should be signed up already. The landing page is: [https://mailman.stanford.edu/mailman/listinfo/me343-winter1819](https://mailman.stanford.edu/mailman/listinfo/me343-winter1819).
+Most of you should be signed up already. The landing page is:
+[https://mailman.stanford.edu/mailman/listinfo/me343-winter1819](https://mailman.stanford.edu/mailman/listinfo/me343-winter1819)
 
 ### Students with Documented Disabilities
 
