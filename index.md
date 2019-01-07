@@ -18,15 +18,17 @@ The material for this class is hosted on github. It can be downloaded from the m
  [https://github.com/stanford-me343/stanford-me343.github.io](https://github.com/stanford-me343/stanford-me343.github.io)
  
  If you click on the green button "Clone or download" you can download all the files as a zip archive.
+ 
 
  ### Useful links
-
-Links to materials for this class:
+ 
+ Links to materials for this class:
 
 - [Code](code.md)
 - [Reading material](reading.md)
 - Homework assignments (to be posted later)
 - Final project instructions (to be posted later)
+
 
 ### Teaching staff
 
