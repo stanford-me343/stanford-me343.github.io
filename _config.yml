@@ -5,15 +5,5 @@ description: "Course materials and notes for Stanford class ME 343, Machine Lear
 baseurl: ""
 url: "http://stanford-me343.github.io"
 github_username: stanford-me343
-
-# Build settings
-markdown: kramdown
-permalink: pretty
-
-highlighter: rouge
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
   
 theme: jekyll-theme-cayman

@@ -2,12 +2,12 @@
 
 Welcome to this class. We hope you will enjoy it!
 
-This is the first time this class is offered by the Mechanical Engineering Department so we will be experimenting with the content a bit. Here is the tentative content. We will make some adjustments as we go depending on interest and the time left:
+This is the first time this class is offered by the Mechanical Engineering Department so we will be experimenting with the content a bit. Here is the tentative content. We will make some adjustments as we go depending on interest and time left:
 
-- Gaussian process regression.
+- Gaussian process regression
 - Support vector machine for classification; kernel machines
 - Deep learning
-- Recurrent neural network
+- Recurrent Neural Network
 - Generative Adversarial Networks (GAN)
 - Physics-informed learning machines (a new method specific to ME!)
 - Reinforcement learning
@@ -33,14 +33,15 @@ There will be a final report due on Wednesday March 20, 11:59 PM.
 
 The grade will be computed as follows:
 
-- 3 homework: 60%
+- 3 homework assignments: 60%
 - 1 final project: 40%
 
-As late policy, we will accept assignments up to 2 day late, with a 10% penalty. Assignments will not be accepted after that. Email [Eric Darve](mailto:darve@stanford.edu) to request an exception (e.g., travel to a conference, illness in the family).
+For late policy, we will accept assignments up to 2 day late, with a 10% penalty. Assignments will not be accepted after that. Email [Eric Darve](mailto:darve@stanford.edu) to request an exception (e.g., travel to a conference, illness in the family).
 
 There will not be any late days for the final project.
 
-Homework assignments will be submitted using gradescope. To register for this class on gradescope use the following code: MPW2X3. The link is [https://www.gradescope.com/courses/35330](https://www.gradescope.com/courses/35330).
+Homework assignments will be submitted using gradescope. To register for this class on gradescope use the following code: MPW2X3. The link is 
+[https://www.gradescope.com/courses/35330](https://www.gradescope.com/courses/35330)
 
 Most of you should be registered already.
 
@@ -54,8 +55,8 @@ This term we will be using Piazza for class discussion. The system is highly cat
 
 Find our class page at: [https://piazza.com/stanford/winter2019/me343/home](https://piazza.com/stanford/winter2019/me343/home).
 
-Because emails from instructors tend to get filtered out, we will also use a mailing list to email everyone. This mailing list can help you differentiate messages from the forum from important messages from the teaching staff. The mailing list will be:
-[me343-winter1819@lists.stanford.edu](mailto:me343-winter1819@lists.stanford.edu).
+Because emails from instructors tend to get filtered out, we will also use a mailing list to email everyone. This mailing list can help you differentiate messages from the forum from important messages from the teaching staff. The mailing list is
+[me343-winter1819@lists.stanford.edu](mailto:me343-winter1819@lists.stanford.edu)
 
 Most of you should be signed up already. The landing page is:
 [https://mailman.stanford.edu/mailman/listinfo/me343-winter1819](https://mailman.stanford.edu/mailman/listinfo/me343-winter1819)
@@ -75,10 +76,10 @@ The Honor Code is an undertaking of the students, individually and collectively:
 
 Examples of conduct that have been regarded as being in violation of the Honor Code include:
 
-- Copying from another’s examination paper or allowing another to copy from one’s own paper
+- Copying from another's examination paper or allowing another to copy from one's own paper
 - Unpermitted collaboration
 - Plagiarism
-- Revising and resubmitting a quiz or exam for regrading, without the instructor’s knowledge and consent
+- Revising and resubmitting a quiz or exam for regrading, without the instructor's knowledge and consent
 - Giving or receiving unpermitted aid on a take-home examination
-- Representing as one’s own work the work of another
+- Representing as one's own work the work of another
 - Giving or receiving aid on an academic assignment under circumstances in which a reasonable person should have known that such aid was not permitted
