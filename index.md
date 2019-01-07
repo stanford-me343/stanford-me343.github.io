@@ -51,7 +51,7 @@ This term we will be using Piazza for class discussion. The system is highly cat
 Find our class page at: [https://piazza.com/stanford/winter2019/me343/home](https://piazza.com/stanford/winter2019/me343/home)
 
 Because emails from instructors tend to get filtered out, we will also use a mailing list to email everyone. This mailing list can help you differentiate messages from the forum from important messages from the teaching staff. The mailing list will be:
-[me343-winter1819@lists.stanford.edu](mailto:me343-winter1819@lists.stanford.edu.)
+[me343-winter1819@lists.stanford.edu](mailto:me343-winter1819@lists.stanford.edu).
 
 Most of you should be signed up already.
 
