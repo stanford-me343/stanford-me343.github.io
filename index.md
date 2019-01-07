@@ -16,9 +16,9 @@ This is the first time this class is offered by the Mechanical Engineering Depar
 
 ### Teaching staff
 
-- Main instructor: Eric Darve, [darve@stanford.edu](mailto:darve@stanford.edu)
-- Lecturer: Hojat Ghorbanidehno, [hojjatgh@stanford.edu](mailto:hojjatgh@stanford.edu)
-- TA: Ziyi Yang, [ziyi.yang@stanford.edu](mailto:ziyi.yang@stanford.edu)
+- Main instructor: Eric Darve, [darve@stanford.edu](mailto:darve@stanford.edu),
+- Lecturer: Hojat Ghorbanidehno, [hojjatgh@stanford.edu](mailto:hojjatgh@stanford.edu),
+- TA: Ziyi Yang, [ziyi.yang@stanford.edu](mailto:ziyi.yang@stanford.edu).
 
 ### Homework and final project
 
@@ -35,8 +35,7 @@ As late policy, we will accept assignments up to 2 day late, with a 10% penalty.
 
 There will not be any late days for the final project.
 
-Homework assignments will be submitted using gradescope. To register for this class on gradescope use the following code: MPW2X3. The link is 
-[https://www.gradescope.com/courses/35330](https://www.gradescope.com/courses/35330)
+Homework assignments will be submitted using gradescope. To register for this class on gradescope use the following code: MPW2X3. The link is [https://www.gradescope.com/courses/35330](https://www.gradescope.com/courses/35330).
 
 Most of you should be registered already.
 
@@ -48,7 +47,7 @@ The class is scheduled Monday, Wednesday, Friday 1:30PM-2:50PM in 200-205. But, 
 
 This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and the instructor. Rather than emailing questions to the teaching staff, we encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, email [team@piazza.com](mailto:team@piazza.com).
 
-Find our class page at: [https://piazza.com/stanford/winter2019/me343/home](https://piazza.com/stanford/winter2019/me343/home)
+Find our class page at: [https://piazza.com/stanford/winter2019/me343/home](https://piazza.com/stanford/winter2019/me343/home).
 
 Because emails from instructors tend to get filtered out, we will also use a mailing list to email everyone. This mailing list can help you differentiate messages from the forum from important messages from the teaching staff. The mailing list will be:
 [me343-winter1819@lists.stanford.edu](mailto:me343-winter1819@lists.stanford.edu).
