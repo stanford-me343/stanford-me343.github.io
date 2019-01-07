@@ -1,8 +1,8 @@
 ## stanford-me343.github.io
 
-Course material for ME343, Stanford, Winter 2019                                                 
+Course material and notes for ME343, Stanford, Winter 2018-2019                                                 
 
-## How to edit GitHub Pages
+### How to edit GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/stanford-me343/stanford-me343.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
