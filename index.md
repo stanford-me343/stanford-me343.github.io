@@ -14,7 +14,9 @@ This is the first time this class is offered by the Mechanical Engineering Depar
 - Markov decision processes, Bellman equation, Monte-Carlo tree search, and dynamic programming
 - Temporal-difference learning (if time allows)
 
-The material for this class is hosted on github. It can be downloaded from the main repository page [https://github.com/stanford-me343/stanford-me343.github.io](https://github.com/stanford-me343/stanford-me343.github.io). If you click on the green button "Clone or download" you can download all the files as a zip archive.
+The material for this class is hosted on github. It can be downloaded from the main repository page
+ [https://github.com/stanford-me343/stanford-me343.github.io](https://github.com/stanford-me343/stanford-me343.github.io) 
+ If you click on the green button "Clone or download" you can download all the files as a zip archive.
 
 ### Teaching staff
 
