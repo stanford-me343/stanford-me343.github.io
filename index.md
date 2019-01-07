@@ -20,9 +20,7 @@ The material for this class is hosted on github. It can be downloaded from the m
  If you click on the green button "Clone or download" you can download all the files as a zip archive.
  
 
- ### Useful links
- 
- Links to materials for this class:
+ **Useful links to materials for this class:**
 
 - [Code](code.md)
 - [Reading material](reading.md)
