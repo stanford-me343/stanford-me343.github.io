@@ -1,4 +1,4 @@
-# ME 343 Homepage
+## ME 343 Homepage
 
 Welcome to this class. We hope you will enjoy it!
 
@@ -25,7 +25,8 @@ The material for this class is hosted on github. It can be downloaded from the m
 - Lecturer: Hojat Ghorbanidehno, [hojjatgh@stanford.edu](mailto:hojjatgh@stanford.edu),
 - TA: Ziyi Yang, [ziyi.yang@stanford.edu](mailto:ziyi.yang@stanford.edu).
 
- **Useful links to materials for this class:**
+
+ ### Useful links to materials for this class
 
 - [Syllabus](syllabus.md)
 - [Code](code.md)
@@ -34,7 +35,7 @@ The material for this class is hosted on github. It can be downloaded from the m
 - Interactive poll and survey link:
 [https://pollev.com/ericdarve886](https://pollev.com/ericdarve886)
 
-# Reading material
+### Reading material
 
 ### GPR
 
