@@ -25,8 +25,7 @@ The material for this class is hosted on github. It can be downloaded from the m
 - Lecturer: Hojat Ghorbanidehno, [hojjatgh@stanford.edu](mailto:hojjatgh@stanford.edu),
 - TA: Ziyi Yang, [ziyi.yang@stanford.edu](mailto:ziyi.yang@stanford.edu).
 
-
- ### Useful links to materials for this class
+### Useful links
 
 - [Syllabus](syllabus.md)
 - [Code](code.md)
