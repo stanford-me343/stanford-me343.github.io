@@ -43,3 +43,9 @@ The material for this class is hosted on github. It can be downloaded from the m
 - Intermediate review paper; [Introduction to Gaussian Processes](https://www.ics.uci.edu/~welling/teaching/KernelsICS273B/gpB.pdf) by Mackay
 - Intermediate review paper; [Prediction with Gaussian Processes from Linear Regression to Linear Prediction and Beyond](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.1226&rep=rep1&type=pdf) by Williams
 - Longer review paper with an introduction to Gaussian processes on a fairly elementary level; [Gaussian Processes for Machine Learning](https://infoscience.epfl.ch/record/161301/files/bayesgp-tut.pdf) by Seeger
+
+### SVM
+
+- [A tutorial on support vector regression](https://link.springer.com/article/10.1023/B:STCO.0000035301.49549.88) by Smola and Scholkopf
+- [A Tutorial on Support Vector Machines for Pattern
+Recognition](https://link.springer.com/article/10.1023/A:1009715923555) by Burges. They have a very interesting mechanical analogy in terms of force and torque for the separating hyperplane.
