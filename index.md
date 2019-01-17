@@ -19,13 +19,16 @@ The material for this class is hosted on github. It can be downloaded from the m
  
  If you click on the green button "Clone or download" you can download all the files as a zip archive.
 
-### Contact information
+### Office hours
 
-- Main instructor: Eric Darve, [darve@stanford.edu](mailto:darve@stanford.edu),
-- Lecturer: Hojat Ghorbanidehno, [hojjatgh@stanford.edu](mailto:hojjatgh@stanford.edu),
-- TA: Ziyi Yang, [ziyi.yang@stanford.edu](mailto:ziyi.yang@stanford.edu).
+- Tuesday: 7 PM to 8 PM (Hojat)
+- Wednesday: 10 AM to 11 AM (Ziyi/Hojat)
+- Thursday: 7 PM to 8 PM (Ziyi)
+- Friday: 9 AM to 11 AM (Prof. Darve; in his office 520-125)
 
-### Useful links
+Office hours with TAs are held in the Huang basement.
+
+### Links
 
 - [Syllabus](syllabus.md)
 - [Code](code.md)
@@ -33,6 +36,12 @@ The material for this class is hosted on github. It can be downloaded from the m
 - Final project instructions (to be posted later)
 - Interactive poll and survey link:
 [https://pollev.com/ericdarve886](https://pollev.com/ericdarve886)
+
+### Contact information
+
+- Main instructor: Eric Darve, [darve@stanford.edu](mailto:darve@stanford.edu), office 520-125
+- Lecturer: Hojat Ghorbanidehno, [hojjatgh@stanford.edu](mailto:hojjatgh@stanford.edu)
+- TA: Ziyi Yang, [ziyi.yang@stanford.edu](mailto:ziyi.yang@stanford.edu)
 
 ### Reading material
 
