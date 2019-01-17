@@ -32,7 +32,7 @@ Office hours with TAs are held in the Huang basement.
 
 - [Syllabus](syllabus.md)
 - [Code](code.md)
-- [Homework assignments] (hwk.md)
+- [Homework assignments](hwk.md)
 - Final project instructions (to be posted later)
 - Interactive poll and survey link:
 [https://pollev.com/ericdarve886](https://pollev.com/ericdarve886)
