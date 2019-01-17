@@ -16,7 +16,7 @@ This is the first time this class is offered by the Mechanical Engineering Depar
 
 The material for this class is hosted on github. It can be downloaded from the main repository page
  [https://github.com/stanford-me343/stanford-me343.github.io](https://github.com/stanford-me343/stanford-me343.github.io)
- 
+
  If you click on the green button "Clone or download" you can download all the files as a zip archive.
 
 ### Office hours
@@ -32,7 +32,7 @@ Office hours with TAs are held in the Huang basement.
 
 - [Syllabus](syllabus.md)
 - [Code](code.md)
-- Homework assignments (to be posted later)
+- [Homework assignments] (hwk.md)
 - Final project instructions (to be posted later)
 - Interactive poll and survey link:
 [https://pollev.com/ericdarve886](https://pollev.com/ericdarve886)
