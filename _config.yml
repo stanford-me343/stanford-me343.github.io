@@ -6,4 +6,4 @@ baseurl: ""
 url: "http://stanford-me343.github.io"
 github_username: stanford-me343
   
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
