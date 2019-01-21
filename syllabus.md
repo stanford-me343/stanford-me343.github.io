@@ -1,3 +1,5 @@
+## Syllabus
+
 ### Homework and final project
 
 We currently planned for 3 homework assignments, on kernel machines, GANs, and reinforcement learning.
