@@ -24,15 +24,18 @@ The material for this class is hosted on github. It can be downloaded from the m
 - Tuesday: 7 PM to 8 PM (Hojat)
 - Wednesday: 10 AM to 11 AM (Ziyi/Hojat)
 - Thursday: 10 AM to 11 PM (Ziyi)
-- Friday: 9 AM to 11 AM (Prof. Darve; in his office 520-125)
+- Friday: 9 AM to 11 AM (Prof. Darve)
 
-Office hours with TAs are held in the Huang basement.
+Office hours with TAs are held in the Huang basement. Prof. Darve's office hours are in building 520, room 125.
 
 ### Course material and links
 
-- [Homework assignments](hwk.md)
+- [Homework assignment folder](hwk.md)
+- [Piazza forum](https://piazza.com/class/jqffwoswj8k50a)
+- [Gradescope](https://www.gradescope.com/); used to submit your assignments, see your grades, and request regrades for assignments.
+- [Mailing list](https://mailman.stanford.edu/mailman/listinfo/me343-winter1819); the instructors use this mailing list to send important messages; **please check that you are registered.**
 - [Syllabus](syllabus.md)
-- [Code](code.md)
+- [Computer code](code.md)
 - Final project instructions (to be posted later)
 - Interactive poll and survey link:
 [https://pollev.com/ericdarve886](https://pollev.com/ericdarve886)
