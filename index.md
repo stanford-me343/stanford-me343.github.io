@@ -23,7 +23,7 @@ The material for this class is hosted on github. It can be downloaded from the m
 
 - Tuesday: 7 PM to 8 PM (Hojat)
 - Wednesday: 10 AM to 11 AM (Ziyi/Hojat)
-- Thursday: 10 AM to 11 PM (Ziyi)
+- Thursday: 10 AM to 11 AM (Ziyi)
 - Friday: 9 AM to 11 AM (Prof. Darve)
 
 Office hours with TAs are held in the Huang basement. Prof. Darve's office hours are in building 520, room 125.
