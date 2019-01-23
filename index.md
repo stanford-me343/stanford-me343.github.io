@@ -51,7 +51,7 @@ Office hours with TAs are held in the Huang basement. Prof. Darve's office hours
 ### SVM
 
 - [A tutorial on support vector regression](https://link.springer.com/article/10.1023/B:STCO.0000035301.49549.88) by Smola and Scholkopf
-- [A Tutorial on support vector machines for pattern
+- [A tutorial on support vector machines for pattern
 recognition](https://link.springer.com/article/10.1023/A:1009715923555) by Burges. They have a very interesting mechanical analogy in terms of force and torque for the separating hyperplane.
 
 ### GPR
