@@ -1,3 +1,4 @@
 ## Homework assignments
 
-- [Homework1](https://github.com/stanford-me343/stanford-me343.github.io/raw/master/hwk/hw1.zip); due: Feb 6th, 11:59PM PST
+- [Homework 1](hwk/hw1.zip)
+- [Quizz 1](hwk/quizz1.pdf)
