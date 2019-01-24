@@ -50,7 +50,7 @@ Office hours with TAs are held in the Huang basement. Prof. Darve's office hours
 
 ### Deep learning
 
-- LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "Deep learning." Nature 521.7553 (2015): 436.
+- LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. ["Deep learning."](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) Nature 521.7553 (2015): 436.
 - [Deep learning](http://www.deeplearningbook.org/) by I. Goodfellow, Y. Bengio, and A. Courville
 - [Deep learning summer school, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/), with many video presentations and tutorials
 - [Deep learning for perception](https://computing.ece.vt.edu/~f15ece6504/), course from Virginia Tech
