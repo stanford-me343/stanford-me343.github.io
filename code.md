@@ -1,6 +1,6 @@
 ## Computer code
 
 - [DNN TensorFlow output](code/DNN demo.html)
-- [DNN TensorFlow](https://github.com/stanford-me343/stanford-me343.github.io/blob/master/code/DNN demo.ipynb)
+- [DNN TensorFlow.ipynb](https://github.com/stanford-me343/stanford-me343.github.io/blob/master/code/DNN demo.ipynb)
 - [Gaussian_Process.ipynb](https://github.com/stanford-me343/stanford-me343.github.io/blob/master/code/Gaussian_Process.ipynb)
 - [Gaussian_Processes_Regression.ipynb](https://github.com/stanford-me343/stanford-me343.github.io/blob/master/code/Gaussian_Processes_Regression.ipynb)
