@@ -56,6 +56,7 @@ Office hours with TAs are held in the Huang basement. Prof. Darve's office hours
 - [Deep learning for perception](https://computing.ece.vt.edu/~f15ece6504/), course from Virginia Tech
 - [Deep learning methods and applications](https://drive.google.com/file/d/0B51wXUnyPM2ybVAwRXBrdFVPSk0/view), online book by L. Deng and D. Yu
 - [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/index.html), online book by M. Nielsen
+- ["Optimization methods for large-scale machine learning,"](https://arxiv.org/pdf/1606.04838.pdf) by L. Bottou. F.E. Curtis, and J. Nocedal. This paper discusses among other things the stochastic gradient method.
 
 ### SVM
 
