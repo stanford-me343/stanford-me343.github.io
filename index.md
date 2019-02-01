@@ -48,6 +48,11 @@ Office hours with TAs are held in the Huang basement. Prof. Darve's office hours
 
 ### Reading material
 
+### GAN
+
+- [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf) by I.J. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, Y. Bengio
+- [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf) by M. Mirza, S. Osindero
+
 ### Deep learning
 
 - LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. ["Deep learning."](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) Nature 521.7553 (2015): 436.
