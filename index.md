@@ -30,6 +30,7 @@ Office hours with TAs are held in the Huang basement. Prof. Darve's office hours
 
 ### Course material and links
 
+- [Final project](project/project.pdf)
 - [Homework assignment folder](hwk.md)
 - [Piazza forum](https://piazza.com/class/jqffwoswj8k50a)
 - [Gradescope](https://www.gradescope.com/); used to submit your assignments, see your grades, and request regrades for assignments.
