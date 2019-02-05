@@ -51,8 +51,11 @@ Office hours with TAs are held in the Huang basement. Prof. Darve's office hours
 
 ### GAN
 
-- [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf) by I.J. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, Y. Bengio
-- [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf) by M. Mirza, S. Osindero
+- [Generative adversarial nets](https://arxiv.org/pdf/1406.2661) by I.J. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, Y. Bengio
+- [Wasserstein GAN](https://arxiv.org/pdf/1701.07875) by M. Arjovsky, S. Chintala, L. Bottou
+- [Improved training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028) by I. Gulrajani, F. Ahmed, M. Arjovsky, V. Dumoulin, A. Courville
+- [InfoGAN: interpretable representation learning by information maximizing generative adversarial nets](https://arxiv.org/pdf/1606.03657) by X. Chen, Y. Duan, R. Houthooft, J. Schulman, I. Sutskever, P. Abbeel
+- [Conditional generative adversarial nets](https://arxiv.org/pdf/1411.1784) by M. Mirza, S. Osindero
 
 ### Deep learning
 
