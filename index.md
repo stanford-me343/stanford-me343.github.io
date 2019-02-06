@@ -51,6 +51,7 @@ Office hours with TAs are held in the Huang basement. Prof. Darve's office hours
 
 ### GAN
 
+- [GAN tutorial](https://github.com/tensorflow/models/blob/master/research/gan/tutorial.ipynb)
 - [Generative adversarial nets](https://arxiv.org/pdf/1406.2661) by I.J. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, Y. Bengio
 - [Wasserstein GAN](https://arxiv.org/pdf/1701.07875) by M. Arjovsky, S. Chintala, L. Bottou
 - [Improved training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028) by I. Gulrajani, F. Ahmed, M. Arjovsky, V. Dumoulin, A. Courville
