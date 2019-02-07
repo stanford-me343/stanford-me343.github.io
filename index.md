@@ -51,6 +51,7 @@ Office hours with TAs are held in the Huang basement. Prof. Darve's office hours
 
 ### GAN
 
+- [GAN Lab](https://arxiv.org/pdf/1809.01587) by M. Kahng, N. Thorat, D.H. Chau, F.B. Viegas, and M. Wattenberg
 - [GAN series](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b), blog by Jonathan Hui
 - [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html), blog by Sebastian Ruder
 - [GAN tutorial](https://github.com/tensorflow/models/blob/master/research/gan/tutorial.ipynb)
