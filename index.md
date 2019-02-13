@@ -49,6 +49,11 @@ Office hours with TAs are held in the Huang basement. Prof. Darve's office hours
 
 ### Reading material
 
+### Physics-informed learning
+
+- [G.E. Karniadakis, physics-informed learning papers on arxiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=karniadakis&terms-0-field=author&terms-1-operator=AND&terms-1-term=physics&terms-1-field=title&terms-2-operator=AND&terms-2-term=informed&terms-2-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
+- [G.E. Karniadakis, machine-learning papers on arxiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=karniadakis&terms-0-field=author&terms-1-operator=AND&terms-1-term=machine+learning&terms-1-field=abstract&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
+
 ### GAN
 
 - [GAN Lab](https://arxiv.org/pdf/1809.01587) by M. Kahng, N. Thorat, D.H. Chau, F.B. Viegas, and M. Wattenberg
