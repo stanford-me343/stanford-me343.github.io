@@ -109,6 +109,6 @@ recognition](https://link.springer.com/article/10.1023/A:1009715923555) by Burge
 
 - [Gaussian processes for machine learning](http://www.gaussianprocess.org/gpml/) by Carl Edward Rasmussen and Christopher K. I. Williams, The MIT Press, 2006. ISBN 0-262-18253-X. This is a reference textbook on Gaussian Processes. Very extensive. Everything you ever wanted to know about GPR.
 - Short review paper; [Gaussian processes for regression](http://papers.nips.cc/paper/1048-gaussian-processes-for-regression.pdf) by Williams and Rasmussen
-- Intermediate review paper; [Introduction to gaussian processes](https://www.ics.uci.edu/~welling/teaching/KernelsICS273B/gpB.pdf) by Mackay
-- Intermediate review paper; [Prediction with gaussian processes from linear regression to linear prediction and beyond](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.1226&rep=rep1&type=pdf) by Williams
+- Intermediate review paper; [Introduction to Gaussian processes](https://www.ics.uci.edu/~welling/teaching/KernelsICS273B/gpB.pdf) by Mackay
+- Intermediate review paper; [Prediction with Gaussian processes from linear regression to linear prediction and beyond](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.1226&rep=rep1&type=pdf) by Williams
 - Longer review paper with an introduction to Gaussian processes on a fairly elementary level; [Gaussian processes for machine learning](https://infoscience.epfl.ch/record/161301/files/bayesgp-tut.pdf) by Seeger
