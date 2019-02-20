@@ -73,7 +73,7 @@ Curation criteria:
 
 - [G.E. Karniadakis, physics-informed learning papers on arxiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=karniadakis&terms-0-field=author&terms-1-operator=AND&terms-1-term=physics&terms-1-field=title&terms-2-operator=AND&terms-2-term=informed&terms-2-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
 - [G.E. Karniadakis, machine-learning papers on arxiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=karniadakis&terms-0-field=author&terms-1-operator=AND&terms-1-term=machine+learning&terms-1-field=abstract&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
-- [Physics-Informed Generative Adversarial Networks for Stochastic Differential Equations]() by L. Yang, D. Zhang, and G.E. Karniadakis
+- [Physics-Informed Generative Adversarial Networks for Stochastic Differential Equations](https://arxiv.org/abs/1811.02033) by L. Yang, D. Zhang, and G.E. Karniadakis
 - [Neural-net-induced Gaussian process regression for function approximation and PDE solution](https://arxiv.org/abs/1806.11187)
 by G. Pang, L. Yang, and G.E. Karniadakis
 
