@@ -1,5 +1,6 @@
 ## Homework assignments
 
+- [Homework 3](hwk/hw3.pdf)
 - [Homework 2](hwk/hw2.pdf)
 - [Quizz 3](hwk/quizz3.pdf)
 - [Quizz 2](hwk/quizz2.pdf)
