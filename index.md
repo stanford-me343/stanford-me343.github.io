@@ -69,6 +69,13 @@ Curation criteria:
 
 **Reading by topics:**
 
+### Reinforcement learning
+
+- [Reinforcement learning : an introduction](https://searchworks.stanford.edu/view/5320501) by R.S. Sutton and A.G. Barto
+- [Course on reinforcement learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver (2015). David was one of the lead researchers on AlphaGo.
+- [Curated list of resources on reinforcement learning](https://github.com/aikorea/awesome-rl), by H. Kim and J. Kim.
+- [OpenAI Gym](https://gym.openai.com/), toolkit for developing and comparing reinforcement learning algorithms
+
 ### Physics-informed learning
 
 - [G.E. Karniadakis, physics-informed learning papers on arxiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=karniadakis&terms-0-field=author&terms-1-operator=AND&terms-1-term=physics&terms-1-field=title&terms-2-operator=AND&terms-2-term=informed&terms-2-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
