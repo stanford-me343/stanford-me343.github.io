@@ -33,11 +33,11 @@ Office hours with TAs are held in the Huang basement. Prof. Darve's office hours
 - [Class feedback form](https://docs.google.com/forms/d/e/1FAIpQLSe2bZaO6MB8ubaKCBqbsEVCwOGArBsm2sAI6guunUpPU6jg2Q/viewform)
 - [Final project](project/project.pdf)
 - [Homework assignment folder](hwk.md)
+- [Demo computer code](code.md)
 - [Piazza forum](https://piazza.com/class/jqffwoswj8k50a)
 - [Gradescope](https://www.gradescope.com/); used to submit your assignments, see your grades, and request regrades for assignments.
 - [Mailing list](https://mailman.stanford.edu/mailman/listinfo/me343-winter1819); the instructors use this mailing list to send important messages; **please check that you are registered.**
 - [Syllabus](syllabus.md)
-- [Demo computer code](code.md)
 - [Interactive polls on pollev](https://pollev.com/ericdarve886)
 
 ### Contact information
