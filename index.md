@@ -73,7 +73,7 @@ General book about machine learning: [The Hundred-Page Machine Learning Book](ht
 
 ### Reinforcement learning
 
-- [Reinforcement learning : an introduction](https://searchworks.stanford.edu/view/5320501) by R.S. Sutton and A.G. Barto
+- [Reinforcement learning : an introduction](https://searchworks.stanford.edu/view/5320501) by R.S. Sutton and A.G. Barto; [draft of second edition](http://incompleteideas.net/book/bookdraft2017nov5.pdf).
 - [Course on reinforcement learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver (2015). David was one of the lead researchers on AlphaGo.
 - [Curated list of resources on reinforcement learning](https://github.com/aikorea/awesome-rl), by H. Kim and J. Kim.
 - [OpenAI Gym](https://gym.openai.com/), toolkit for developing and comparing reinforcement learning algorithms
