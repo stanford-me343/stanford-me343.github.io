@@ -69,7 +69,7 @@ Curation criteria:
 
 General book about machine learning: [The Hundred-Page Machine Learning Book](https://leanpub.com/theMLbook), by Andriy Burkov. Relatively easy to read with a discussion of all the fundamental concepts. The book does not cover more advanced topics though.
 
-**Reading by topics:**
+### Reading by topics
 
 ### Reinforcement learning
 
