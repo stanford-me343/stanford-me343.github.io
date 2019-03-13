@@ -30,7 +30,7 @@ Office hours with TAs are held in the Huang basement. Prof. Darve's office hours
 
 ### Course material and links
 
-- [AlphaGo slides](stanford-me343.github.io/AlphaGo.htm)
+- [AlphaGo slides](stanford-me343.github.io/AlphaGo.html)
 - [Class feedback form](https://docs.google.com/forms/d/e/1FAIpQLSe2bZaO6MB8ubaKCBqbsEVCwOGArBsm2sAI6guunUpPU6jg2Q/viewform)
 - [Final project](project/project.pdf)
 - [Homework assignment folder](hwk.md)
